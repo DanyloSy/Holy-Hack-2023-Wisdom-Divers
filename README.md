@@ -1,1 +1,2 @@
 # Holy-Hack-2023-Wisdom-Divers
+Our team developed a prototype of Automated Consultancy Bot called ChEasi. Automated consultancy will help small businesses tackle challenges that appear in their path of growth. The code uses NLP to preprocess the problem-text given by the user to map into 5 most related words, then GPT3 is fine-tuned along with our database of solved cases in order to supply our customer with the most similar solution from it. In future, the consultancy book database will be added, so the bot will become even more wise.
